@@ -19,7 +19,6 @@ translationsDescr=[]
 # that's not the most efficient way in the world, but if I split it in chunks it will assume the entire translation/
 # is one big string
 for i in range(len(df)):
-    print(7)
     tran = translator.translate(jobTitles[i], lang_src='nl', lang_tgt='en')
     translationsJobs.append(tran)
     descr= translator.translate(jobDescribtions[i], lang_src='nl', lang_tgt='en')

@@ -1,3 +1,9 @@
+"""
+Created on Fri Dec 18 23:40:05 2020
+
+@author: Dmitriy
+"""
+
 from google_trans_new import google_translator  
 import pandas as pd
 translator = google_translator()  

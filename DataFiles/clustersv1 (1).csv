@@ -1,0 +1,1428 @@
+,words,cluster,name
+0,personal leadership,1,leadership
+1,natural leadership,1,leadership
+2,business leadership,1,leadership
+3,exceptional leadership,1,leadership
+4,organizational leadership,1,leadership
+5,exemplary leadership,1,leadership
+6,leadership communication,1,leadership
+7,situational leadership,1,leadership
+8,nursing leadership,1,leadership
+9,leadership capabilities,1,leadership
+10,leadership courage,1,leadership
+11,leadership deep,1,leadership
+12,leadership experience,1,leadership
+13,leadership persuasiveness,1,leadership
+14,leadership qualities,1,leadership
+15,leadership responsible,1,leadership
+16,leadership strong,1,leadership
+17,management leadership,1,leadership
+18,natural leadership skills,1,leadership
+19,emea leadership team,1,leadership
+20,have leadership skills,1,leadership
+21,communication management leadership,1,leadership
+22,situational leadership style,1,leadership
+23,directive leadership style,1,leadership
+24,natural leadership style,1,leadership
+25,demonstrable leadership capabilities,1,leadership
+26,have leadership qualities,1,leadership
+27,project leadership experience,1,leadership
+0,psychiatric nurse,5,nurse
+1,care nurse,5,nurse
+2,dialysis nurse,5,nurse
+3,nursing diploma,5,nurse
+4,nursing care,5,nurse
+5,team nurse,5,nurse
+6,mbo nurse,5,nurse
+7,nursing education,5,nurse
+8,cardiology nurse,5,nurse
+9,independent nurse,5,nurse
+10,caregiver nurse,5,nurse
+11,nursing coordinator,5,nurse
+12,coordinating nurse,5,nurse
+13,nurse diploma,5,nurse
+14,nurse care,5,nurse
+15,qualified nurse,5,nurse
+16,specialist nurse,5,nurse
+17,ccu nurse,5,nurse
+18,certified nurse,5,nurse
+19,nursing leadership,5,nurse
+20,nurse coordinator,5,nurse
+21,ambitious nurses,5,nurse
+22,diploma nursing,5,nurse
+23,experienced nurse,5,nurse
+24,expert nurses,5,nurse
+25,nurse level,5,nurse
+26,nurse practitioner,5,nurse
+27,nurse senior,5,nurse
+28,nurse specialist,5,nurse
+29,nurse supervisor,5,nurse
+30,psychiatric nurses,5,nurse
+31,psychiatric nursing,5,nurse
+32,qualified nurses,5,nurse
+33,technical nursing,5,nurse
+34,perform technical nursing,5,nurse
+35,nurse level 4,5,nurse
+36,nursing level 4,5,nurse
+37,social psychiatric nurses,5,nurse
+38,performing technical nursing,5,nurse
+39,health nurse specialist,5,nurse
+40,hbo psychiatric nurse,5,nurse
+41,feijenoord” psychiatric nurse,5,nurse
+42,nursing practical experience,5,nurse
+43,nurse level 6,5,nurse
+44,all technical nursing,5,nurse
+45,hbo qualified nurse,5,nurse
+46,nursing patient care,5,nurse
+47,dementia technical nursing,5,nurse
+48,hbo nurse senior,5,nurse
+49,complex technical nursing,5,nurse
+50,experienced caregiver nurse,5,nurse
+51,specialized caregiver nurse,5,nurse
+52,nursing customer advisors,5,nurse
+53,maternity nurse diploma,5,nurse
+54,social psychiatric nursing,5,nurse
+0,project management,2,management
+1,technical management,2,management
+2,functional management,2,management
+3,workforce management,2,management
+4,account management,2,management
+5,management experience,2,management
+6,fleet management,2,management
+7,program management,2,management
+8,stakeholder management,2,management
+9,product management,2,management
+10,effectiveness management,2,management
+11,daily management,2,management
+12,risk management,2,management
+13,stock management,2,management
+14,self management,2,management
+15,change management,2,management
+16,operational management,2,management
+17,contract management,2,management
+18,system management,2,management
+19,senior management,2,management
+20,business management,2,management
+21,personnel management,2,management
+22,chain management,2,management
+23,management knowledge,2,management
+24,day management,2,management
+25,asset management,2,management
+26,warehouse management,2,management
+27,supplier management,2,management
+28,it management,2,management
+29,inventory management,2,management
+30,maintenance management,2,management
+31,process management,2,management
+32,relationship management,2,management
+33,managerial experience,2,management
+34,network management,2,management
+35,energy management,2,management
+36,support management,2,management
+37,iv management,2,management
+38,traffic management,2,management
+39,direct management,2,management
+40,goods management,2,management
+41,internal management,2,management
+42,api management,2,management
+43,care management,2,management
+44,event management,2,management
+45,management consulting,2,management
+46,development management,2,management
+47,lifecycle management,2,management
+48,portfolio management,2,management
+49,nature management,2,management
+50,tasks management,2,management
+51,resource management,2,management
+52,access management,2,management
+53,information management,2,management
+54,calendar management,2,management
+55,construction management,2,management
+56,water management,2,management
+57,grc management,2,management
+58,application management,2,management
+59,availability management,2,management
+60,time management,2,management
+61,crisis management,2,management
+62,park management,2,management
+63,management scrum,2,management
+64,office365 management,2,management
+65,service management,2,management
+66,mobility management,2,management
+67,enterprise management,2,management
+68,management directing,2,management
+69,space management,2,management
+70,management livestock,2,management
+71,engine management,2,management
+72,configuration management,2,management
+73,manager informatics,2,management
+74,marketplace management,2,management
+75,affiliate management,2,management
+76,category management,2,management
+77,facility management,2,management
+78,lean management,2,management
+79,vendor management,2,management
+80,client management,2,management
+81,accountability management,2,management
+82,sox management,2,management
+83,structural management,2,management
+84,communication management,2,management
+85,data management,2,management
+86,matrix management,2,management
+87,vault management,2,management
+88,standards management,2,management
+89,advertising manager,2,management
+90,cycle management,2,management
+91,enthusiastic management,2,management
+92,experience manager,2,management
+93,hr manager,2,management
+94,installation manager,2,management
+95,knowledge management,2,management
+96,leader manager,2,management
+97,maintenance manager,2,management
+98,management activities,2,management
+99,management advises,2,management
+100,management affinity,2,management
+101,management attending,2,management
+102,management brand,2,management
+103,management career,2,management
+104,management commercial,2,management
+105,management companies,2,management
+106,management department,2,management
+107,management development,2,management
+108,management discipline,2,management
+109,management domain,2,management
+110,management drawing,2,management
+111,management dynamics,2,management
+112,management economics,2,management
+113,management entrepreneurship,2,management
+114,management escalations,2,management
+115,management experienced,2,management
+116,management expert,2,management
+117,management finance,2,management
+118,management guiding,2,management
+119,management housing,2,management
+120,management keeping,2,management
+121,management leadership,2,management
+122,management leading,2,management
+123,management licensing,2,management
+124,management logistics,2,management
+125,management marketing,2,management
+126,management models,2,management
+127,management organizational,2,management
+128,management planning,2,management
+129,management preparing,2,management
+130,management skills,2,management
+131,management software,2,management
+132,management specialist,2,management
+133,management spectrum,2,management
+134,management sql,2,management
+135,management standardization,2,management
+136,management strategies,2,management
+137,management supervision,2,management
+138,management techniques,2,management
+139,management testing,2,management
+140,management thinking,2,management
+141,management tooling,2,management
+142,management training,2,management
+143,mechanic manager,2,management
+144,preparing management,2,management
+145,project manager,2,management
+146,service manager,2,management
+147,building management systems,2,management
+148,senior project manager,2,management
+149,fleet management systems,2,management
+150,captain hr manager,2,management
+151,maintenance management system,2,management
+152,care management purchasing,2,management
+153,project management methodologies,2,management
+154,account management experience,2,management
+155,risk management measures,2,management
+156,stakeholder management willingness,2,management
+157,management entrepreneurship sports,2,management
+158,warehouse management keeping,2,management
+159,stakeholder management skills,2,management
+160,account management licensing,2,management
+161,infrastructure project manager,2,management
+162,risk management requirements,2,management
+163,configuration management platforms,2,management
+164,coordinator service manager,2,management
+165,engineering experience manager,2,management
+166,time management skills,2,management
+167,change management skills,2,management
+168,stock management maintenance,2,management
+169,innovative project management,2,management
+170,term experience manager,2,management
+171,manage project budget,2,management
+172,management project development,2,management
+173,trainee project manager,2,management
+174,fleet management market,2,management
+175,chief mechanic manager,2,management
+176,communication management leadership,2,management
+177,modern management techniques,2,management
+178,product project management,2,management
+179,manager technical specialist,2,management
+180,vb management sql,2,management
+181,leading project manager,2,management
+182,manager customer portfolio,2,management
+183,designer project manager,2,management
+184,senior management role,2,management
+185,standards management knowledge,2,management
+186,vault management standardization,2,management
+187,sox management testing,2,management
+188,life cycle management,2,management
+189,program management experience,2,management
+0,administrative assistant,3,administration
+1,system administrator,3,administration
+2,payroll administrator,3,administration
+3,administrative secretarial,3,administration
+4,political administrative,3,administration
+5,administrative sensitivity,3,administration
+6,it administrator,3,administration
+7,legal administrative,3,administration
+8,logistical administrative,3,administration
+9,administrator associate,3,administration
+10,teams administrator,3,administration
+11,office365 administrator,3,administration
+12,po administrator,3,administration
+13,administrations accounting,3,administration
+14,administration experience,3,administration
+15,functional administrator,3,administration
+16,sales administrative,3,administration
+17,administering eye,3,administration
+18,administering medicines,3,administration
+19,administering vitamin,3,administration
+20,administrative actions,3,administration
+21,administrative background,3,administration
+22,administrative employee,3,administration
+23,administrative environment,3,administration
+24,administrative experience,3,administration
+25,administrative experienced,3,administration
+26,administrative field,3,administration
+27,administrative handling,3,administration
+28,administrative law,3,administration
+29,administrative level,3,administration
+30,administrative logistics,3,administration
+31,administrative position,3,administration
+32,administrative process,3,administration
+33,administrative processes,3,administration
+34,administrative processing,3,administration
+35,administrative quality,3,administration
+36,administrative relations,3,administration
+37,administrative sensitive,3,administration
+38,administrative services,3,administration
+39,administrative skills,3,administration
+40,administrative tasks,3,administration
+41,administrative work,3,administration
+42,database administrators,3,administration
+43,financial administration,3,administration
+44,guiding administrations,3,administration
+45,language administrative,3,administration
+46,operational administrative,3,administration
+47,optimize administrative,3,administration
+48,perform administrative tasks,3,administration
+49,optimize administrative processes,3,administration
+50,political administrative sensitivity,3,administration
+51,administrative experienced type,3,administration
+52,politics administrative experienced,3,administration
+53,administrator associate microsoft,3,administration
+54,daily financial administration,3,administration
+0,elderly care,4,medical care
+1,palliative care,4,medical care
+2,oral care,4,medical care
+3,providing care,4,medical care
+4,customer care,4,medical care
+5,somatic care,4,medical care
+6,addiction care,4,medical care
+7,dental care,4,medical care
+8,initiative care,4,medical care
+9,maternity care,4,medical care
+10,day care,4,medical care
+11,intensive care,4,medical care
+12,integrated care,4,medical care
+13,nursing care,4,medical care
+14,primary care,4,medical care
+15,gp care,4,medical care
+16,youth care,4,medical care
+17,patient care,4,medical care
+18,medical care,4,medical care
+19,acute care,4,medical care
+20,child care,4,medical care
+21,informal caregiver,4,medical care
+22,guidance care,4,medical care
+23,dementia care,4,medical care
+24,coordinating care,4,medical care
+25,digital care,4,medical care
+26,school care,4,medical care
+27,psychiatric care,4,medical care
+28,physical care,4,medical care
+29,specialist care,4,medical care
+30,regular care,4,medical care
+31,rehabilitation care,4,medical care
+32,up care,4,medical care
+33,community care,4,medical care
+34,qualitative care,4,medical care
+35,image care,4,medical care
+36,technology care,4,medical care
+37,nurse care,4,medical care
+38,terminal care,4,medical care
+39,personalized care,4,medical care
+40,practitioner care,4,medical care
+41,extramural care,4,medical care
+42,stimulating care,4,medical care
+43,247 care,4,medical care
+44,geriatric care,4,medical care
+45,psychological care,4,medical care
+46,cva care,4,medical care
+47,amputation care,4,medical care
+48,beauty care,4,medical care
+49,psychogeriatric care,4,medical care
+50,stoma care,4,medical care
+51,mental care,4,medical care
+52,birth care,4,medical care
+53,skin care,4,medical care
+54,teeth care,4,medical care
+55,convalescence care,4,medical care
+56,diploma care,4,medical care
+57,diploma caregiver,4,medical care
+58,disabled care,4,medical care
+59,experienced caregiver,4,medical care
+60,experienced carer,4,medical care
+61,management career,4,medical care
+62,supportive care,4,medical care
+63,home care organization,4,medical care
+64,residential care center,4,medical care
+65,training caregiver ig,4,medical care
+66,palliative care wound,4,medical care
+67,somatic care requirement,4,medical care
+68,project leader care,4,medical care
+69,mbo care ig,4,medical care
+70,regular patient care,4,medical care
+71,primary care innovation,4,medical care
+72,digital care innovation,4,medical care
+73,hearing care professional,4,medical care
+74,support psychiatric care,4,medical care
+75,maternity care certificate,4,medical care
+76,health care provider,4,medical care
+77,pdl palliative care,4,medical care
+78,specialist care department,4,medical care
+79,primary care department,4,medical care
+80,intramural care sector,4,medical care
+81,nursing patient care,4,medical care
+82,care palliative care,4,medical care
+83,do palliative care,4,medical care
+84,wound care palliative,4,medical care
+85,palliative care putting,4,medical care
+86,heemstede disabled care,4,medical care
+87,stoma care catheterisation,4,medical care
+88,home care expertise,4,medical care
+89,experienced caregiver nurse,4,medical care
+90,specialized caregiver nurse,4,medical care
+91,geriatric care psychogeriatrie,4,medical care
+92,mbo diploma care,4,medical care
+93,somatic care demand,4,medical care
+0,healthcare technology,4,medical care
+1,care nurse,4,medical care
+2,healthcare consultant,4,medical care
+3,healthcare education,4,medical care
+4,care technology,4,medical care
+5,care coordinator,4,medical care
+6,healthcare provider,4,medical care
+7,care management,4,medical care
+8,care enthusiast,4,medical care
+9,care youth,4,medical care
+10,healthcare diploma,4,medical care
+11,care palliative,4,medical care
+12,care diploma,4,medical care
+13,care guidance,4,medical care
+14,care innovation,4,medical care
+15,care knowledge,4,medical care
+16,care medical,4,medical care
+17,care oncology,4,medical care
+18,care professional,4,medical care
+19,care professionals,4,medical care
+20,care providers,4,medical care
+21,care psychogeriatrics,4,medical care
+22,care psychogeriatrie,4,medical care
+23,care requirement,4,medical care
+24,care supervising,4,medical care
+25,childcare i,4,medical care
+26,home care organization,4,medical care
+27,residential care center,4,medical care
+28,palliative care wound,4,medical care
+29,somatic care requirement,4,medical care
+30,healthcare technology solutions,4,medical care
+31,healthcare technology required,4,medical care
+32,healthcare technology applications,4,medical care
+33,care management purchasing,4,medical care
+34,mbo care ig,4,medical care
+35,primary care innovation,4,medical care
+36,digital care innovation,4,medical care
+37,hearing care professional,4,medical care
+38,maternity care certificate,4,medical care
+39,health care provider,4,medical care
+40,specialist care department,4,medical care
+41,primary care department,4,medical care
+42,intramural care sector,4,medical care
+43,care palliative care,4,medical care
+44,wound care palliative,4,medical care
+45,palliative care putting,4,medical care
+46,stoma care catheterisation,4,medical care
+47,home care expertise,4,medical care
+48,geriatric care psychogeriatrie,4,medical care
+49,care level 3,4,medical care
+50,somatic care demand,4,medical care
+0,psychiatric nurse,6,psychiatry
+1,doctor psychiatrist,6,psychiatry
+2,social psychiatry,6,psychiatry
+3,personal psychiatry,6,psychiatry
+4,psychiatric care,6,psychiatry
+5,psychiatric diagnostics,6,psychiatry
+6,chronic psychiatry,6,psychiatry
+7,acute psychiatry,6,psychiatry
+8,adolescent psychiatry,6,psychiatry
+9,addiction psychiatry,6,psychiatry
+10,geriatric psychiatry,6,psychiatry
+11,psychiatric nurses,6,psychiatry
+12,psychiatric nursing,6,psychiatry
+13,psychiatric psychosocial,6,psychiatry
+14,psychiatrist monitoring,6,psychiatry
+15,psychiatry division,6,psychiatry
+16,psychiatry knowledge,6,psychiatry
+17,psychiatry recovery,6,psychiatry
+18,psychiatry training,6,psychiatry
+19,psychological psychiatric,6,psychiatry
+20,social psychiatric,6,psychiatry
+21,support psychiatric,6,psychiatry
+22,social psychiatric nurses,6,psychiatry
+23,personal psychiatry recovery,6,psychiatry
+24,recovery support psychiatric,6,psychiatry
+25,hbo psychiatric nurse,6,psychiatry
+26,feijenoord” psychiatric nurse,6,psychiatry
+27,support psychiatric care,6,psychiatry
+28,geriatric psychiatry training,6,psychiatry
+29,social psychiatric nursing,6,psychiatry
+0,psychological care,6,psychology
+1,developmental psychology,6,psychology
+2,developmental psychological,6,psychology
+3,experienced psychologists,6,psychology
+4,psychological complaints,6,psychology
+5,psychological counseling,6,psychology
+6,psychological perspective,6,psychology
+7,psychological problems,6,psychology
+8,psychological psychiatric,6,psychology
+9,psychological research,6,psychology
+10,psychological somatic,6,psychology
+11,psychological treatments,6,psychology
+12,psychology pedagogy,6,psychology
+13,perform psychological treatments,6,psychology
+14,changing psychological counseling,6,psychology
+15,developmental psychological perspective,6,psychology
+0,healthcare technology,7,healthcare
+1,healthcare consultant,7,healthcare
+2,healthcare education,7,healthcare
+3,healthcare provider,7,healthcare
+4,healthcare diploma,7,healthcare
+5,advising healthcare,7,healthcare
+6,leader healthcare,7,healthcare
+7,specialist mental healthcare,7,healthcare
+8,project leader healthcare,7,healthcare
+9,healthcare technology solutions,7,healthcare
+10,healthcare technology required,7,healthcare
+11,healthcare technology applications,7,healthcare
+0,pediatric physiotherapy,7,physiotherapy
+1,experienced physiotherapist,7,physiotherapy
+2,passionate physiotherapist,7,physiotherapy
+3,pediatric physiotherapist,7,physiotherapy
+4,profile physiotherapist,7,physiotherapy
+5,line physiotherapy,7,physiotherapy
+6,sports physiotherapy,7,physiotherapy
+7,physiotherapist dietician,7,physiotherapy
+8,physiotherapy practice,7,physiotherapy
+0,pediatric physiotherapy,7,therapy
+1,music therapist,7,therapy
+2,breakthrough therapy,7,therapy
+3,occupational therapist,7,therapy
+4,occupational therapy,7,therapy
+5,group therapy,7,therapy
+6,music therapy,7,therapy
+7,exercise therapy,7,therapy
+8,experienced physiotherapist,7,therapy
+9,passionate physiotherapist,7,therapy
+10,radioligand therapy,7,therapy
+11,therapist expert,7,therapy
+12,co therapist,7,therapy
+13,manual therapy,7,therapy
+14,exercise therapist,7,therapy
+15,experienced therapist,7,therapy
+16,remedial therapist,7,therapy
+17,pediatric physiotherapist,7,therapy
+18,profile physiotherapist,7,therapy
+19,line physiotherapy,7,therapy
+20,sports physiotherapy,7,therapy
+21,schema therapy,7,therapy
+22,physiotherapist dietician,7,therapy
+23,physiotherapy practice,7,therapy
+24,psychotherapeutic treatments,7,therapy
+25,psychotherapy training,7,therapy
+26,therapy insight,7,therapy
+27,therapy pediatric,7,therapy
+28,therapy skills,7,therapy
+29,psychotherapists mental health,7,therapy
+30,music therapy skills,7,therapy
+31,hbo music therapy,7,therapy
+32,occupational therapy insight,7,therapy
+0,preventive maintenance,8,maintenance
+1,maintenance mechanic,8,maintenance
+2,service maintenance,8,maintenance
+3,maintenance technician,8,maintenance
+4,maintenance engineer,8,maintenance
+5,corrective maintenance,8,maintenance
+6,technical maintenance,8,maintenance
+7,aircraft maintenance,8,maintenance
+8,maintenance carpenter,8,maintenance
+9,installation maintenance,8,maintenance
+10,renovation maintenance,8,maintenance
+11,stock maintenance,8,maintenance
+12,daily maintenance,8,maintenance
+13,maintenance management,8,maintenance
+14,periodic maintenance,8,maintenance
+15,independent maintenance,8,maintenance
+16,major maintenance,8,maintenance
+17,electrical maintenance,8,maintenance
+18,small maintenance,8,maintenance
+19,repair maintenance,8,maintenance
+20,cv maintenance,8,maintenance
+21,planned maintenance,8,maintenance
+22,structural maintenance,8,maintenance
+23,annual maintenance,8,maintenance
+24,roof maintenance,8,maintenance
+25,minor maintenance,8,maintenance
+26,mechanical maintenance,8,maintenance
+27,equipment maintenance,8,maintenance
+28,customers maintenance,8,maintenance
+29,technician maintenance,8,maintenance
+30,ventilation maintenance,8,maintenance
+31,materials maintenance,8,maintenance
+32,maintenance planning,8,maintenance
+33,mutation maintenance,8,maintenance
+34,cars maintenance,8,maintenance
+35,park maintenance,8,maintenance
+36,tenant maintenance,8,maintenance
+37,line maintenance,8,maintenance
+38,field maintenance,8,maintenance
+39,sewage maintenance,8,maintenance
+40,maintenance analysis,8,maintenance
+41,systems maintenance,8,maintenance
+42,preconditions maintenance,8,maintenance
+43,maintenance programming,8,maintenance
+44,boiler maintenance,8,maintenance
+45,diploma maintenance,8,maintenance
+46,experience maintenance,8,maintenance
+47,maintenance advising,8,maintenance
+48,maintenance assignments,8,maintenance
+49,maintenance experience,8,maintenance
+50,maintenance expert,8,maintenance
+51,maintenance failure,8,maintenance
+52,maintenance financial,8,maintenance
+53,maintenance inspection,8,maintenance
+54,maintenance inspections,8,maintenance
+55,maintenance installation,8,maintenance
+56,maintenance installing,8,maintenance
+57,maintenance manager,8,maintenance
+58,maintenance mechanical,8,maintenance
+59,maintenance mechanizations,8,maintenance
+60,maintenance operator,8,maintenance
+61,maintenance overhaul,8,maintenance
+62,maintenance plans,8,maintenance
+63,maintenance renovation,8,maintenance
+64,maintenance repairs,8,maintenance
+65,maintenance reports,8,maintenance
+66,maintenance resolve,8,maintenance
+67,maintenance specialist,8,maintenance
+68,maintenance supervisor,8,maintenance
+69,maintenance technicians,8,maintenance
+70,maintenance troubleshooting,8,maintenance
+71,maintenance upgrading,8,maintenance
+72,maintenance welding,8,maintenance
+73,maintenance work,8,maintenance
+74,monitoring maintenance,8,maintenance
+75,preparing maintenance,8,maintenance
+76,roofing maintenance,8,maintenance
+77,technology maintenance,8,maintenance
+78,technical maintenance specialist,8,maintenance
+79,perform preventive maintenance,8,maintenance
+80,perform maintenance inspections,8,maintenance
+81,maintenance engineer at,8,maintenance
+82,service maintenance technician,8,maintenance
+83,stock maintenance mechanic,8,maintenance
+84,maintenance management system,8,maintenance
+85,maintenance mechanic at,8,maintenance
+86,service maintenance team,8,maintenance
+87,maintenance technician heating,8,maintenance
+88,delamine maintenance team,8,maintenance
+89,installation maintenance inspection,8,maintenance
+90,renovation maintenance projects,8,maintenance
+91,equipment maintenance mechanic,8,maintenance
+92,curative maintenance systems,8,maintenance
+93,refrigeration technician maintenance,8,maintenance
+94,stock management maintenance,8,maintenance
+95,preventive maintenance advising,8,maintenance
+96,scheduling preventive maintenance,8,maintenance
+97,knit maintenance team,8,maintenance
+98,technology maintenance engineer,8,maintenance
+99,periodic preventive maintenance,8,maintenance
+100,technical maintenance work,8,maintenance
+101,common maintenance assembly,8,maintenance
+0,maintenance mechanic,9,mechanic
+1,service mechanic,9,mechanic
+2,refrigeration mechanic,9,mechanic
+3,car mechanic,9,mechanic
+4,assistant mechanic,9,mechanic
+5,experienced mechanic,9,mechanic
+6,independent mechanic,9,mechanic
+7,cv mechanic,9,mechanic
+8,truck mechanic,9,mechanic
+9,bicycle mechanic,9,mechanic
+10,technician mechanic,9,mechanic
+11,chief mechanic,9,mechanic
+12,installation mechanic,9,mechanic
+13,vehicle mechanic,9,mechanic
+14,aircraft mechanic,9,mechanic
+15,reefer mechanic,9,mechanic
+16,diesel mechanic,9,mechanic
+17,mechanic installation,9,mechanic
+18,stock mechanic,9,mechanic
+19,forklift mechanic,9,mechanic
+20,lift mechanic,9,mechanic
+21,working mechanic,9,mechanic
+22,mechanic experience,9,mechanic
+23,crane mechanic,9,mechanic
+24,duct mechanic,9,mechanic
+25,full mechanic,9,mechanic
+26,mechanical technician,9,mechanic
+27,bathroom mechanic,9,mechanic
+28,mechanical maintenance,9,mechanic
+29,frame mechanic,9,mechanic
+30,assembly mechanic,9,mechanic
+31,stek mechanic,9,mechanic
+32,gas mechanic,9,mechanic
+33,mechanical engineer,9,mechanic
+34,engine mechanic,9,mechanic
+35,cranes mechanic,9,mechanic
+36,mechanic operator,9,mechanic
+37,ventilation mechanic,9,mechanic
+38,repair mechanic,9,mechanic
+39,elevator mechanic,9,mechanic
+40,agricultural mechanization,9,mechanic
+41,porsche mechanic,9,mechanic
+42,nautical mechanic,9,mechanic
+43,equipment mechanic,9,mechanic
+44,mechatronics mechanic,9,mechanic
+45,diploma mechanical,9,mechanic
+46,engineer mechanical,9,mechanic
+47,experience mechanic,9,mechanic
+48,experience mechanics,9,mechanic
+49,guiding mechanics,9,mechanic
+50,installation mechanical,9,mechanic
+51,knowledge mechanical,9,mechanic
+52,leading mechanical,9,mechanic
+53,maintenance mechanical,9,mechanic
+54,maintenance mechanizations,9,mechanic
+55,mechanic assembly,9,mechanic
+56,mechanic automatiseringstechniek,9,mechanic
+57,mechanic beton,9,mechanic
+58,mechanic car,9,mechanic
+59,mechanic cranes,9,mechanic
+60,mechanic electrical,9,mechanic
+61,mechanic electrotechnical,9,mechanic
+62,mechanic frames,9,mechanic
+63,mechanic hoisting,9,mechanic
+64,mechanic international,9,mechanic
+65,mechanic knowledge,9,mechanic
+66,mechanic let,9,mechanic
+67,mechanic manager,9,mechanic
+68,mechanic market,9,mechanic
+69,mechanic mbo,9,mechanic
+70,mechanic mechanical,9,mechanic
+71,mechanic mechatronics,9,mechanic
+72,mechanic meet,9,mechanic
+73,mechanic metalworking,9,mechanic
+74,mechanic plastic,9,mechanic
+75,mechanic polyester,9,mechanic
+76,mechanic service,9,mechanic
+77,mechanic work,9,mechanic
+78,mechanic works,9,mechanic
+79,technician mechanical,9,mechanic
+80,technician mechanics,9,mechanic
+81,metal technician mechanic,9,mechanic
+82,stock maintenance mechanic,9,mechanic
+83,truck mechanic experience,9,mechanic
+84,maintenance mechanic at,9,mechanic
+85,equipment maintenance mechanic,9,mechanic
+86,service mechanic hoisting,9,mechanic
+87,aircraft mechanic b1,9,mechanic
+88,corporal mechanic electrotechnical,9,mechanic
+89,finishing mechanic allround,9,mechanic
+90,car mechanic commercial,9,mechanic
+91,chief mechanic manager,9,mechanic
+92,hbo diploma mechanical,9,mechanic
+93,car technician mechanic,9,mechanic
+94,technology service mechanic,9,mechanic
+95,engineering mechanic mechatronics,9,mechanic
+0,installation technology,38,installation
+1,installation technician,38,installation
+2,round installation,38,installation
+3,independent installation,38,installation
+4,installation technical,38,installation
+5,installation maintenance,38,installation
+6,installation engineer,38,installation
+7,installation mechanic,38,installation
+8,online installation,38,installation
+9,sprinkler installation,38,installation
+10,technical installation,38,installation
+11,electrical installation,38,installation
+12,mechanic installation,38,installation
+13,engineering installation,38,installation
+14,real installation,38,installation
+15,draftsman installation,38,installation
+16,installations technician,38,installation
+17,technician installation,38,installation
+18,panel installation,38,installation
+19,installations engineer,38,installation
+20,vve installation,38,installation
+21,construction installation,38,installation
+22,sewerage installation,38,installation
+23,spa installation,38,installation
+24,advising installing,38,installation
+25,assistant installation,38,installation
+26,assistant installer,38,installation
+27,engineer installing,38,installation
+28,experienced installation,38,installation
+29,fitter installation,38,installation
+30,installation assistance,38,installation
+31,installation expert,38,installation
+32,installation inspecting,38,installation
+33,installation manager,38,installation
+34,installation maratec,38,installation
+35,installation mechanical,38,installation
+36,installation overhaul,38,installation
+37,installation specialist,38,installation
+38,installation specialists,38,installation
+39,installation support,38,installation
+40,installation training,38,installation
+41,installation videos,38,installation
+42,installation work,38,installation
+43,installation works,38,installation
+44,maintenance installation,38,installation
+45,maintenance installing,38,installation
+46,manufacture installation,38,installation
+47,performing installation,38,installation
+48,planning installation,38,installation
+49,plumber installation,38,installation
+50,installation technician assistant,38,installation
+51,assistant installation technician,38,installation
+52,scm installation recognition,38,installation
+53,within installation technology,38,installation
+54,installation technician then,38,installation
+55,installation technology at,38,installation
+56,sprinkler installation engineer,38,installation
+57,installation technician w,38,installation
+58,installation technology driving,38,installation
+59,real installation specialists,38,installation
+60,round installation specialist,38,installation
+61,installations carrying out,38,installation
+62,installation technology electrical,38,installation
+63,voltage installation technician,38,installation
+64,round installation technician,38,installation
+65,engineering installation technology,38,installation
+66,independent installation technician,38,installation
+67,sized installation companies,38,installation
+68,panel installation works,38,installation
+69,installation maintenance inspection,38,installation
+70,installation technician plumber,38,installation
+71,service technician installation,38,installation
+72,technician plumber installation,38,installation
+73,installation technician inrax,38,installation
+74,plan installation requirements,38,installation
+75,installation technology mechatronics,38,installation
+76,construction installation technology,38,installation
+77,education installation technology,38,installation
+78,mbo education installation,38,installation
+79,electrical installation activities,38,installation
+80,pipe fitter installation,38,installation
+0,engineering experience,10,engineer
+1,electrical engineer,10,engineer
+2,maintenance engineer,10,engineer
+3,project engineer,10,engineer
+4,structural engineer,10,engineer
+5,support engineer,10,engineer
+6,planner engineer,10,engineer
+7,engineering knowledge,10,engineer
+8,system engineer,10,engineer
+9,heating engineer,10,engineer
+10,installation engineer,10,engineer
+11,assembly engineer,10,engineer
+12,first engineer,10,engineer
+13,logistics engineer,10,engineer
+14,ventilation engineer,10,engineer
+15,product engineer,10,engineer
+16,insulation engineer,10,engineer
+17,scalability engineer,10,engineer
+18,estimate engineer,10,engineer
+19,engineering installation,10,engineer
+20,automation engineer,10,engineer
+21,engineering service,10,engineer
+22,solution engineer,10,engineer
+23,rd engineer,10,engineer
+24,security engineer,10,engineer
+25,transport engineer,10,engineer
+26,platform engineer,10,engineer
+27,operations engineer,10,engineer
+28,junior engineer,10,engineer
+29,hardware engineer,10,engineer
+30,engineering education,10,engineer
+31,lead engineer,10,engineer
+32,mechanical engineer,10,engineer
+33,installations engineer,10,engineer
+34,development engineer,10,engineer
+35,refrigeration engineer,10,engineer
+36,software engineer,10,engineer
+37,engineering intern,10,engineer
+38,malfunction engineer,10,engineer
+39,train engineer,10,engineer
+40,cloud engineer,10,engineer
+41,financial engineer,10,engineer
+42,linux engineer,10,engineer
+43,engineering degree,10,engineer
+44,systems engineer,10,engineer
+45,data engineer,10,engineer
+46,saas engineer,10,engineer
+47,devops engineer,10,engineer
+48,engineering mathematics,10,engineer
+49,assistance engineers,10,engineer
+50,automotive engineering,10,engineer
+51,engineer analytics,10,engineer
+52,engineer architect,10,engineer
+53,engineer control,10,engineer
+54,engineer controls,10,engineer
+55,engineer data,10,engineer
+56,engineer electrical,10,engineer
+57,engineer installing,10,engineer
+58,engineer mechanical,10,engineer
+59,engineer mechatronics,10,engineer
+60,experience engineering,10,engineer
+61,project engineers,10,engineer
+62,science engineering,10,engineer
+63,service engineer,10,engineer
+64,support engineers,10,engineer
+65,technology engineer,10,engineer
+66,work planner engineer,10,engineer
+67,assembly engineer mechatronics,10,engineer
+68,protection service engineer,10,engineer
+69,technical support engineer,10,engineer
+70,maintenance engineer at,10,engineer
+71,sprinkler installation engineer,10,engineer
+72,cost estimate engineer,10,engineer
+73,allround service engineer,10,engineer
+74,engineering installation technology,10,engineer
+75,junior engineer control,10,engineer
+76,technical service engineer,10,engineer
+77,engineering experience manager,10,engineer
+78,engineering technical construction,10,engineer
+79,test engineer system,10,engineer
+80,pumps service engineer,10,engineer
+81,qualified service engineer,10,engineer
+82,solution engineer analytics,10,engineer
+83,technology maintenance engineer,10,engineer
+84,logistics engineer design,10,engineer
+85,engineering mechanic mechatronics,10,engineer
+0,financially responsible,37,finance
+1,financial education,37,finance
+2,financial reporting,37,finance
+3,financial analysis,37,finance
+4,financial monitoring,37,finance
+5,financial engineer,37,finance
+6,documentation financial,37,finance
+7,financial accounting,37,finance
+8,skills financial,37,finance
+9,accounting financial,37,finance
+10,financial administration,37,finance
+11,financial background,37,finance
+12,financial calculations,37,finance
+13,financial controller,37,finance
+14,financial insight,37,finance
+15,financial planning,37,finance
+16,financial reports,37,finance
+17,hr finance,37,finance
+18,maintenance financial,37,finance
+19,management finance,37,finance
+20,reporting financial,37,finance
+21,senior financial accountant,37,finance
+22,papendrecht financial monitoring,37,finance
+23,making financial analyzes,37,finance
+24,clients financial planning,37,finance
+25,analyzing financial data,37,finance
+26,financial economical crime,37,finance
+27,financial economic crime,37,finance
+28,independent financial advice,37,finance
+29,automate financial services,37,finance
+30,senior financial controller,37,finance
+31,skills financial insight,37,finance
+32,profitability financial calculations,37,finance
+33,daily financial administration,37,finance
+34,accounting financial control,37,finance
+35,provides financial transactions,37,finance
+36,comparative financial analysis,37,finance
+37,financial analysis capabilities,37,finance
+38,experience financial analysis,37,finance
+39,detecting financial crime,37,finance
+40,make financial analyzes,37,finance
+0,marketing communication,11,marketing
+1,telemarketing representative,11,marketing
+2,marketing surveillance,11,marketing
+3,marketing technology,11,marketing
+4,concrete marketing,11,marketing
+5,experience marketing,11,marketing
+6,expert marketing,11,marketing
+7,integrated marketing,11,marketing
+8,interactive marketing,11,marketing
+9,management marketing,11,marketing
+10,optimizing marketing,11,marketing
+11,professional education marketing,11,marketing
+0,logistics service,12,logistics
+1,logistics engineer,12,logistics
+2,logistical administrative,12,logistics
+3,logistic support,12,logistics
+4,logistical knowledge,12,logistics
+5,logistics experience,12,logistics
+6,logistics coordinator,12,logistics
+7,administrative logistics,12,logistics
+8,enthusiastic logistics,12,logistics
+9,experienced psychologists,12,logistics
+10,inquisitive logistics,12,logistics
+11,logistical direction,12,logistics
+12,logistical insights,12,logistics
+13,management logistics,12,logistics
+14,translating logistical,12,logistics
+15,logistics service providers,12,logistics
+16,logistics engineer design,12,logistics
+0,mbo education,13,mbo
+1,mbo level,13,mbo
+2,mbo diploma,13,mbo
+3,mbo language,13,mbo
+4,mbo nurse,13,mbo
+5,mbo course,13,mbo
+6,mbo pedagogical,13,mbo
+7,vmbo diploma,13,mbo
+8,diploma mbo,13,mbo
+9,education mbo,13,mbo
+10,enthusiastic mbo,13,mbo
+11,inquisitive mbo,13,mbo
+12,level mbo,13,mbo
+13,mechanic mbo,13,mbo
+14,mbo level 3,13,mbo
+15,mbo level 4,13,mbo
+16,mbo level 2,13,mbo
+17,mbo language dutch,13,mbo
+18,completed technical mbo,13,mbo
+19,weekend education mbo,13,mbo
+20,mbo language german,13,mbo
+21,mbo level 34,13,mbo
+22,mbo care ig,13,mbo
+23,mbo language english,13,mbo
+24,mbo level experience,13,mbo
+25,mbo diploma technology,13,mbo
+26,mbo4 level experience,13,mbo
+27,mbo education 3,13,mbo
+28,mbo education experience,13,mbo
+29,mbo education installation,13,mbo
+30,market education mbo,13,mbo
+31,education level mbo,13,mbo
+32,mbo pedagogical work,13,mbo
+33,mbo diploma care,13,mbo
+34,client education mbo,13,mbo
+0,hbo education,14,hbo
+1,hbo diploma,14,hbo
+2,hbo level,14,hbo
+3,hbo language,14,hbo
+4,hbo degree,14,hbo
+5,hbo chemistry,14,hbo
+6,education hbo,14,hbo
+7,hbo education preferably,14,hbo
+8,hbo language dutch,14,hbo
+9,hbo level ·,14,hbo
+10,hbo language english,14,hbo
+11,completed education hbo,14,hbo
+12,hbo psychiatric nurse,14,hbo
+13,dutch language hbo,14,hbo
+14,hbo language german,14,hbo
+15,hbo university work,14,hbo
+16,hbo qualified nurse,14,hbo
+17,hbo diploma mechanical,14,hbo
+18,hbo language netherlands,14,hbo
+19,hbo music therapy,14,hbo
+20,hbo nurse senior,14,hbo
+21,hbo level experience,14,hbo
+22,completed technical hbo,14,hbo
+23,hbo education current,14,hbo
+0,university education,15,university education
+1,university degree,15,university education
+2,completed university,15,university education
+3,university bachelor,15,university education
+4,university law,15,university education
+5,completed university education,15,university education
+6,university bachelor degree,15,university education
+7,hbo university work,15,university education
+0,bachelor degree,15,university education
+1,bachelors degree,15,university education
+2,university bachelor,15,university education
+3,wo bachelor,15,university education
+4,education bachelor,15,university education
+5,experience bachelor,15,university education
+6,education bachelor working,15,university education
+7,university bachelor degree,15,university education
+0,construction fitter,16,construction
+1,construction technician,16,construction
+2,construction management,16,construction
+3,construction knowledge,16,construction
+4,construction installation,16,construction
+5,concrete construction,16,construction
+6,converting construction,16,construction
+7,excellent construction,16,construction
+8,executing construction,16,construction
+9,fitter construction,16,construction
+10,international construction,16,construction
+11,multidisciplinary construction,16,construction
+12,technical construction,16,construction
+13,machine fitter construction,16,construction
+14,engineering technical construction,16,construction
+15,construction installation technology,16,construction
+16,construction college education,16,construction
+0,account management,17,accounting
+1,administrations accounting,17,accounting
+2,accountability management,17,accounting
+3,financial accounting,17,accounting
+4,transactions accounting,17,accounting
+5,operational accounting,17,accounting
+6,accounting 3,17,accounting
+7,accounting contributing,17,accounting
+8,accounting experience,17,accounting
+9,accounting financial,17,accounting
+10,accounting local,17,accounting
+11,accounting rules,17,accounting
+12,analysis accountability,17,accounting
+13,assistant accountant,17,accounting
+14,experience account,17,accounting
+15,experience accounting,17,accounting
+16,senior financial accountant,17,accounting
+17,account management experience,17,accounting
+18,account management licensing,17,accounting
+19,advanced assistant accountant,17,accounting
+20,online accounting systems,17,accounting
+21,accounting financial control,17,accounting
+0,cam programming,18,programming
+1,cam programmer,18,programming
+2,programming language,18,programming
+3,programming knowledge,18,programming
+4,modern programming,18,programming
+5,plc programmer,18,programming
+6,polyglot programmer,18,programming
+7,extreme programming,18,programming
+8,c programming,18,programming
+9,plc programming,18,programming
+10,maintenance programming,18,programming
+11,programming ·,18,programming
+12,extreme programming test,18,programming
+13,modern programming language,18,programming
+14,c programming ·,18,programming
+0,communication ict,19,ICT
+1,informatics ict,19,ICT
+2,leader ict,19,ICT
+3,business informatics ict,19,ICT
+4,team leader ict,19,ICT
+0,ict service,19,ICT
+1,ict knowledge,19,ICT
+2,ict education,19,ICT
+3,ict service offer,19,ICT
+0,computer science,20,computer literacy
+1,computer knowledge,20,computer literacy
+2,computer diagnostic,20,computer literacy
+3,computer literacy,20,computer literacy
+4,computer technology,20,computer literacy
+5,science computer,20,computer literacy
+6,computer science fundamentals,20,computer literacy
+0,technical informatics,20,computer literacy
+1,manager informatics,20,computer literacy
+2,business informatics,20,computer literacy
+3,informatics business,20,computer literacy
+4,informatics electronics,20,computer literacy
+5,informatics ict,20,computer literacy
+6,business informatics ict,20,computer literacy
+0,it management,21,IT
+1,it experience,21,IT
+2,it knowledge,21,IT
+3,it administrator,21,IT
+4,it education,21,IT
+5,knit chemistry team,21,IT
+6,it education teaching,21,IT
+7,knit maintenance team,21,IT
+0,software developer,22,software
+1,software engineer,22,software
+2,software consultant,22,software
+3,software intelligence,22,software
+4,analysis software,22,software
+5,develop software,22,software
+6,management software,22,software
+7,planning software,22,software
+8,information analysis software,22,software
+0,pedagogical diploma,23,teaching
+1,mbo pedagogical,23,teaching
+2,pedagogical employee,23,teaching
+3,qualified pedagogical,23,teaching
+4,leader pedagogical coach,23,teaching
+5,mbo pedagogical work,23,teaching
+0,teaching assistant,23,teaching
+1,degree teaching,23,teaching
+2,can teach,23,teaching
+3,enjoy teaching,23,teaching
+4,online teaching,23,teaching
+5,pabo teaching,23,teaching
+6,biology teacher,23,teaching
+7,mathematics teacher,23,teaching
+8,qualified teacher,23,teaching
+9,teaching experience,23,teaching
+10,teaching skills,23,teaching
+11,teaching assistant diploma,23,teaching
+12,pabo qualified teacher,23,teaching
+13,it education teaching,23,teaching
+14,flexible teaching assistant,23,teaching
+0,allround carpenter,24,carpenter
+1,maintenance carpenter,24,carpenter
+2,independent carpenter,24,carpenter
+3,workshop carpenter,24,carpenter
+4,carpenter 1,24,carpenter
+5,carpenter 2,24,carpenter
+6,enthusiastic carpenter,24,carpenter
+7,experienced carpenters,24,carpenter
+8,experience carpenter 1,24,carpenter
+9,allround carpenter do,24,carpenter
+0,organic chemistry,25,chemistry
+1,medicinal chemistry,25,chemistry
+2,chemistry experience,25,chemistry
+3,hbo chemistry,25,chemistry
+4,science chemistry,25,chemistry
+5,medicinal chemistry team,25,chemistry
+6,organic chemistry experience,25,chemistry
+7,organic chemistry techniques,25,chemistry
+8,knit chemistry team,25,chemistry
+0,allround plumber,26,plumber
+1,experienced plumber,26,plumber
+2,leading plumber,26,plumber
+3,plumber installation,26,plumber
+4,technician plumber,26,plumber
+5,installation technician plumber,26,plumber
+6,technician plumber installation,26,plumber
+7,motivated plumber apprentice,26,plumber
+0,truck driver,27,driver
+1,delivery driver,27,driver
+2,stable driver,27,driver
+3,forklift driver,27,driver
+4,predictable driver,27,driver
+5,driver courier,27,driver
+6,driver card,27,driver
+7,driver crane,27,driver
+8,driver delivery,27,driver
+9,driver drive,27,driver
+10,driver license,27,driver
+11,enthusiastic driver,27,driver
+12,experience driver,27,driver
+13,experience drivers,27,driver
+14,talented drivers,27,driver
+15,vol driver license,27,driver
+16,forklift driver license,27,driver
+17,b driver license,27,driver
+18,substances driver license,27,driver
+0,delivery driver,28,delivery
+1,will deliver,28,delivery
+2,delivery service,28,delivery
+3,boat delivery,28,delivery
+4,consistently delivering,28,delivery
+5,deliver bathrooms,28,delivery
+6,deliver bootcamps,28,delivery
+7,driver delivery,28,delivery
+0,hr service,29,hr
+1,hr knowledge,29,hr
+2,hr finance,29,hr
+3,hr legislation,29,hr
+4,hr manager,29,hr
+5,hr matters,29,hr
+6,hr officer,29,hr
+7,hr process,29,hr
+8,hr processes,29,hr
+9,hr project,29,hr
+10,hr quality,29,hr
+11,hr recruitment,29,hr
+12,hr team,29,hr
+13,captain hr manager,29,hr
+14,specialist hr employees,29,hr
+15,providing hr services,29,hr
+0,english language,30,foreighn language
+1,english excellent,30,foreighn language
+2,english proficiency,30,foreighn language
+3,language english,30,foreighn language
+4,english language spoken,30,foreighn language
+5,hbo language english,30,foreighn language
+6,b language english,30,foreighn language
+7,mbo language english,30,foreighn language
+8,english language competences,30,foreighn language
+9,dutch language english,30,foreighn language
+10,english language possession,30,foreighn language
+0,french language,30,foreighn language
+1,good french,30,foreighn language
+2,fluent french,30,foreighn language
+3,french dutch,30,foreighn language
+4,french german,30,foreighn language
+5,french language spoken,30,foreighn language
+6,french language mastery,30,foreighn language
+7,german french dutch,30,foreighn language
+0,german language,30,foreighn language
+1,french german,30,foreighn language
+2,language german,30,foreighn language
+3,mbo language german,30,foreighn language
+4,nijmegen language german,30,foreighn language
+5,hbo language german,30,foreighn language
+6,german french dutch,30,foreighn language
+7,german language spoken,30,foreighn language
+8,available language german,30,foreighn language
+0,good communication,31,communication skills
+1,excellent communication,31,communication skills
+2,strong communication,31,communication skills
+3,written communication,31,communication skills
+4,clear communication,31,communication skills
+5,verbal communication,31,communication skills
+6,oral communication,31,communication skills
+7,marketing communication,31,communication skills
+8,developed communication,31,communication skills
+9,have communication,31,communication skills
+10,project communication,31,communication skills
+11,direct communication,31,communication skills
+12,great communication,31,communication skills
+13,internal communication,31,communication skills
+14,communication technology,31,communication skills
+15,honest communication,31,communication skills
+16,positive communication,31,communication skills
+17,efficient communication,31,communication skills
+18,leadership communication,31,communication skills
+19,communication management,31,communication skills
+20,cloud communication,31,communication skills
+21,communication advisor,31,communication skills
+22,communication excellent,31,communication skills
+23,communication humor,31,communication skills
+24,communication ict,31,communication skills
+25,communication process,31,communication skills
+26,communication skills,31,communication skills
+27,communication specialist,31,communication skills
+28,convincing communication,31,communication skills
+29,informational communication,31,communication skills
+30,written communication skills,31,communication skills
+31,verbal communication skills,31,communication skills
+32,oral communication skills,31,communication skills
+33,many communication channels,31,communication skills
+34,resolve communication failure,31,communication skills
+35,scientific informational communication,31,communication skills
+36,written communication initiative,31,communication skills
+37,communication management leadership,31,communication skills
+38,professional communication skills,31,communication skills
+39,dutch communication skills,31,communication skills
+0,agricultural mechanization,32,argiculture
+1,agricultural technology,32,argiculture
+2,leading agricultural,32,argiculture
+0,college education,33,college diploma
+1,college diploma,33,college diploma
+2,college degree,33,college diploma
+3,construction college education,33,college diploma
+4,commercial college education,33,college diploma
+0,wo education,33,WO
+1,wo diploma,33,WO
+2,wo level,33,WO
+3,vwo diploma,33,WO
+4,wo degree,33,WO
+5,wo bachelor,33,WO
+6,wo education experience,33,WO
+7,wo diploma specializing,33,WO
+0,supermarket cooking,35,cooking
+1,cooking diploma,35,cooking
+2,cooking education,35,cooking
+3,completed cooking education,35,cooking
+0,service technician,34,technician
+1,installation technician,34,technician
+2,maintenance technician,34,technician
+3,experienced technician,34,technician
+4,car technician,34,technician
+5,vehicle technician,34,technician
+6,refrigeration technician,34,technician
+7,technician assistant,34,technician
+8,technician mechanic,34,technician
+9,telecom technician,34,technician
+10,metal technician,34,technician
+11,repair technician,34,technician
+12,technician diploma,34,technician
+13,stek technician,34,technician
+14,assembly technician,34,technician
+15,construction technician,34,technician
+16,mechanical technician,34,technician
+17,installations technician,34,technician
+18,technician installation,34,technician
+19,technician maintenance,34,technician
+20,lead technician,34,technician
+21,avionics technician,34,technician
+22,audiovisual technician,34,technician
+23,outdoor technician,34,technician
+24,malfunction technician,34,technician
+25,operational technician,34,technician
+26,auxiliary technician,34,technician
+27,calibration technician,34,technician
+28,mr technician,34,technician
+29,assistance technicians,34,technician
+30,diploma technician,34,technician
+31,innovative technician,34,technician
+32,inquisitive technician,34,technician
+33,inquisitive technicians,34,technician
+34,maintenance technicians,34,technician
+35,supervising technicians,34,technician
+36,technician instrumentation,34,technician
+37,technician mechanical,34,technician
+38,technician mechanics,34,technician
+39,technician plumber,34,technician
+40,installation technician assistant,34,technician
+41,heating service technician,34,technician
+42,experienced service technician,34,technician
+43,assistant installation technician,34,technician
+44,installation technician then,34,technician
+45,metal technician mechanic,34,technician
+46,service maintenance technician,34,technician
+47,insulation technician full,34,technician
+48,service technician w,34,technician
+49,installation technician w,34,technician
+50,apprentice service technician,34,technician
+51,voltage installation technician,34,technician
+52,round installation technician,34,technician
+53,refrigeration service technician,34,technician
+54,independent installation technician,34,technician
+55,maintenance technician heating,34,technician
+56,installation technician plumber,34,technician
+57,service technician installation,34,technician
+58,bicycle technician diploma,34,technician
+59,refrigeration technician maintenance,34,technician
+60,technician plumber installation,34,technician
+61,installation technician inrax,34,technician
+62,field service technician,34,technician
+63,service technician escalators,34,technician
+64,service technician refrigeration,34,technician
+65,car technician diploma,34,technician
+66,car technician mechanic,34,technician
+67,repair service technician,34,technician
+68,service technician heating,34,technician
+69,technology service technician,34,technician
+70,technicians project leaders,34,technician
